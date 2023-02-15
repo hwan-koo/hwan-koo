@@ -1,6 +1,6 @@
 ### 구경환입니다~ 👋
 [![Solved.ac
-korea9kh](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+korea9kh](http://mazassumnida.wtf/api/generate_badge?boj={korea9kh})](https://solved.ac/{korea9kh})
 <!--
 **hwan-koo/hwan-koo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
